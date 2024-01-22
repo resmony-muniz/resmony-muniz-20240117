@@ -1,3 +1,7 @@
+# Como executar
+* Executar commando `docker-compose up --build`
+* Testar via Postman com a collection presente na raiz da solução
+
 # Sistema de Gestão de Colaboradores e Unidades em C# com PostgreSQL
 
 Este é um projeto de backend que implementa um Sistema de Gestão de Colaboradores e Unidades, utilizando o PostgreSQL como banco de dados.
