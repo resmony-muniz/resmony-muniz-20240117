@@ -1,5 +1,5 @@
 # Como executar
-* Executar commando `docker-compose up --build`
+* Executar comando `docker-compose up --build` dentro de `/SGCU`
 * Testar via Postman com a collection presente na raiz da solução
 
 # Sistema de Gestão de Colaboradores e Unidades em C# com PostgreSQL
